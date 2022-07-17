@@ -59,7 +59,7 @@
     "hdr-histogram-js": "^2.0.1",
     "hdr-histogram-percentiles-obj": "^3.0.0",
     "http-parser-js": "^0.5.2",
-    "hyperid": "^2.0.3",
+    "hyperid": "^3.0.1",
     "manage-path": "^2.0.0",
     "on-net-listen": "^1.1.1",
     "pretty-bytes": "^5.4.1",
