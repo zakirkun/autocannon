@@ -48,7 +48,7 @@
     "tap": "^15.0.2"
   },
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^5.1.0",
     "char-spinner": "^1.0.1",
     "cli-table3": "^0.6.0",
     "clone": "^2.1.2",
